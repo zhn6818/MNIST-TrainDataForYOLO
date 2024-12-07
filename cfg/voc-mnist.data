@@ -1,6 +1,6 @@
 classes= 10
-train  = /tmp/darknet_mnist/train.txt
-valid  = /tmp/darknet_mnist/test.txt
-names = data/voc-mnist.names
-backup = backup
+train  = /Users/zhanghaining/2022/PyTorch-YOLOv3/data/MNIST-TrainDataForYOLO/train.txt
+valid  = /Users/zhanghaining/2022/PyTorch-YOLOv3/data/MNIST-TrainDataForYOLO/test.txt
+names = /Users/zhanghaining/2022/PyTorch-YOLOv3/data/MNIST-TrainDataForYOLO/data/voc-mnist.names
+backup = backup_mnist/
 
