@@ -6,6 +6,8 @@ from PIL import Image, ImageOps
 import os
 import random
 
+# os.environ["KERAS_HOME"] = "/Users/zhanghaining/2022/MNIST-TrainDataForYOLO"
+
 def convert(size, box):
     dw = 1./size[0]
     dh = 1./size[1]
